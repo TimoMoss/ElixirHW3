@@ -1,2 +1,0 @@
-mix new Creates a new , Elixir project. It expects the path of the project as argument.
-mix new Creates a new , Elixir project. It expects the path of the project as argument.
